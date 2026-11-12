@@ -40,7 +40,7 @@ Official records: [Commercial Register of the Canton of Zug](https://zg.chregist
 
 ## Board of the Foundation
 
-The Foundation’s Board was appointed by its founder and currently consists of Dr. Michael Martin, Brian Behlendorf and Benedikt Kukačka, as registered in the Swiss commercial register.
+The Foundation’s Board was appointed by its founder and currently consists of Dr. Michael Martin, Brian Behlendorf and Benedikt Kukačka, as registered in the Swiss Commercial Register.
 
 Board fees will be disclosed in aggregate in each quarterly report. The Foundation intends to expand the Board to five members. Candidates for new Board seats will be presented to the community for consultation, which may include a non-binding on-chain vote, before the Board makes its appointment.
 
@@ -48,7 +48,7 @@ Board fees will be disclosed in aggregate in each quarterly report. The Foundati
 
 The Foundation commits to the following:
 
-1. New Board members will be announced before they take office. The Board will add new members, accept the departure of existing members, or remove members as necessary to ensure alignment with the Foundation’s mission. When considering new members of the Board, the Board will reach out to the community for suggestions, input on candidates, and feedback on its work, and will give due weight to that input. As a matter of policy, the Board intends to keep to five members and will seek the community’s input before any further expansion.
+1. New Board members will be announced before they take office. New Board members are appointed in line with the statutes. Before any appointment, the Board will ask the community for suggestions and feedback and give that input due weight. As a matter of policy, the Board intends to keep to five members and will seek the community’s input before any further expansion.
 2. The Foundation will publish a quarterly report on expenditure, staffing, contracts and results, together with its audited annual accounts, on the Foundation’s official website.
 3. The Foundation will hold its funds in fiat currency, stablecoins and GNK with regulated custodians, in accordance with a treasury policy approved by the Board.
 4. The Foundation is committed to practicing competent treasury management, which includes carefully considering the impact upon the market of converting its finite GNK reserves (granted from the Community Pool) into cash to fund operations.
